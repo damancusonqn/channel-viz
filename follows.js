@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'Kzvh1XS6195leZUujuMRaZPLlEnlyLpK4eQe7K0rurpA3iu5', // Unique master Xively API key to be used as a default
+	var defaultKey		= '5kRYVQeGd3bU2YSsxwSIdlNJjWUqfVFuFm7fzTKhZcgt3yFH', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [2069858697], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Raspberry Pi Sensors Test#1', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
