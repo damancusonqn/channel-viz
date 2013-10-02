@@ -104,7 +104,7 @@
 								// Check for Datastream Tags
 								var tagsHtml = '';
 								if(datastreamData.tags) {
-									tagsHtml = '<div style="font-size: 14px;"><span class="radius secondary label">' + datastreamData.tags.join('</span> <span class="radius secondary label">') + '</span></div>';
+									tagsHtml = '<div style="font-size: 7px;"><span class="radius secondary label">' + datastreamData.tags.join('</span> <span class="radius secondary label">') + '</span></div>';
 								} else {
 									tagsHtml = '';
 								}
